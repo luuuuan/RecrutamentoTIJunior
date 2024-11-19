@@ -1,15 +1,13 @@
 {
-  "name": "recrutamentotijunior",
+  "name": "recrutamento-ti-junior",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Projeto de recrutamento de profissionais de TI júnior.",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.1"
-  }
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {}
 }
